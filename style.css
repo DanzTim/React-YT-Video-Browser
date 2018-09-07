@@ -1,0 +1,35 @@
+.search-bar {
+  margin: 20px;
+  font-size: 120%;
+}
+
+.search-bar input {
+  width: 50%;
+  margin-left: 10px;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.video-detail #title {
+  font-size: 140%;
+}
+
+.video-detail #description {
+  margin-top: 5px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  font-size: 120%;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
